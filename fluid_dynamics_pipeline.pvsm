@@ -1,0 +1,7 @@
+<ServerManagerState version="5.10.0">
+  <Proxy group="filters" type="Slice" id="8402">
+    <Property name="SliceType" number_of_elements="1">
+      <Proxy group="implicit_functions" type="Plane" />
+    </Property>
+  </Proxy>
+</ServerManagerState>
